@@ -1,0 +1,8 @@
+# This programme calculates the area of a circle
+
+radius = 14
+pi = 3.14
+
+area = pi * radius * radius
+print(area)
+area
