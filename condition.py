@@ -7,4 +7,3 @@ else:
         print (x)
     else:
         print("number is less than 50")
-
